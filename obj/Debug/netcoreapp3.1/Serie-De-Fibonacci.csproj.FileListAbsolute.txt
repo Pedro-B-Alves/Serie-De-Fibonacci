@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\bin\Debug\netcoreapp3.1\Serie-De-Fibonacci.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\bin\Debug\netcoreapp3.1\Serie-De-Fibonacci.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\bin\Debug\netcoreapp3.1\Serie-De-Fibonacci.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\bin\Debug\netcoreapp3.1\Serie-De-Fibonacci.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\bin\Debug\netcoreapp3.1\Serie-De-Fibonacci.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\bin\Debug\netcoreapp3.1\Serie-De-Fibonacci.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\obj\Debug\netcoreapp3.1\Serie-De-Fibonacci.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\obj\Debug\netcoreapp3.1\Serie-De-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\obj\Debug\netcoreapp3.1\Serie-De-Fibonacci.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\obj\Debug\netcoreapp3.1\Serie-De-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\obj\Debug\netcoreapp3.1\Serie-De-Fibonacci.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\obj\Debug\netcoreapp3.1\Serie-De-Fibonacci.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Serie-De-Fibonacci\obj\Debug\netcoreapp3.1\Serie-De-Fibonacci.genruntimeconfig.cache
